@@ -11,4 +11,5 @@ $ sudo apt install gcc
    touch output.txt
    subl example.cpp input.txt ouput.txt
 5. Now  save your code as ".cpp" file, and goto  build and select c++ single run option.
+#if problem exist then try first running .cpp file in terminal../..
  
