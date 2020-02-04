@@ -10,6 +10,7 @@ $ sudo apt install gcc
    touch input.txt
    touch output.txt
    subl example.cpp input.txt ouput.txt
-5. Now  save your code as ".cpp" file, and goto  build and select c++ single run option.
+ 5. Write a code in main as displayed in image.
+6. Now  save your code as ".cpp" file, and goto  build and select c++ single run option.
 #if problem exist then try first running .cpp file in terminal../..
  
