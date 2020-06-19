@@ -1,7 +1,7 @@
 # Sublime-Text-Ide-Environment-Setup-
 Best Ide setup for competiive programming
-1. Install an compiler - The following linux command will install gcc compiler on on Ubuntu 18.04 Bionic Beaver. Open up terminal and enter:
-$ sudo apt install gcc
+1. Install an compiler - The following link will install gcc compiler on your Ubuntu .Refer This link:
+https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux
 2. Now install sublime text editor in your terminal.
    sudo apt-get update
    sudo apt-get install sublime-text
